@@ -43,4 +43,8 @@ mysql -u root -p combinations_db < init.sql
 # 5. Start application
 npm start
 ```
-# combinations-api
+# combinations-api 
+
+# Some eaxmples
+<img width="1291" height="1175" alt="Screenshot 2025-09-15 at 17 59 34" src="https://github.com/user-attachments/assets/5e8124ad-ff78-4781-98f1-1d24e971e029" />
+<img width="1310" height="1203" alt="Screenshot 2025-09-15 at 17 59 10" src="https://github.com/user-attachments/assets/0132abae-1c19-4da6-8bc6-4a9b1893d83f" />
